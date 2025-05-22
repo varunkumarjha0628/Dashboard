@@ -1,2 +1,4 @@
 # Dashboard
-POWER BI
+POWER BI,
+Data cleaning,
+Data analysis.
