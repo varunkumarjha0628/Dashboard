@@ -1,4 +1,5 @@
 # Dashboard
-POWER BI,
+#POWER BI
 Data cleaning,
-Data analysis.
+Data analysis,
+Using Map chat.
